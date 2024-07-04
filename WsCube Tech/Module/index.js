@@ -1,3 +1,4 @@
-import sumData from "./calculator.js";
+import {sumData as amar,minData} from "./calculator.js";
 
-console.log(sumData(50, 20))
+console.log(amar(25, 20));
+console.log(minData(50, 20));
